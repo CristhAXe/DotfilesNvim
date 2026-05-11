@@ -18,6 +18,7 @@ I use this setup daily with Linux and terminal-based development environments.
 - Fast startup
 - Terminal friendly workflow
 - JavaScript development oriented
+- Theme [Black-Metal-Theme](https://github.com/metalelf0/black-metal-theme-neovim)
 
 ## 🛠️ Stack
 
